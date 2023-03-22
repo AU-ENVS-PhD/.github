@@ -23,6 +23,6 @@ Different journals have different requirements. Below are some latex packages/co
 ```latex
 \usepackage[margin=2.5cm]{geometry}
 ```
-4. [Excel2Latex extension](https://github.com/ivankokan/Excel2LaTeX)
+4. [Excel2Latex extension](https://github.com/ivankokan/Excel2LaTeX) and [table generator online](https://www.tablesgenerator.com/latex_tables). Both are great for generating formatted tables. 
 5. Feel free to share and contribute! To be continued. 
 
