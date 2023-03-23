@@ -1,5 +1,6 @@
 # AU-ENVS-PhD
-## Hi there 👋! welcome to the github homepage for PhD students at the department of Environmental Science in Aarhus University. 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAU-ENVS-PhD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hi there 👋! Welcome to the github homepage for PhD students at the department of Environmental Science in Aarhus University. 
 
 
 You can find some useful templates in the organization. We also prepared some useful resources here:
